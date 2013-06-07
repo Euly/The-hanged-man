@@ -1,0 +1,4 @@
+Impiccato.o: Impiccato.cc Struttura_dati.h Impiccato.h Inizializza.h \
+ Stampa.h
+Inizializza.o: Inizializza.cc Struttura_dati.h Inizializza.h
+Stampa.o: Stampa.cc Struttura_dati.h Stampa.h

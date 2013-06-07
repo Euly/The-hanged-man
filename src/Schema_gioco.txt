@@ -1,0 +1,59 @@
+ARGOMENTO (350x300)
+->	LabelTitolo2
+		Font: DejaVu Serif Bold Semi-Condensed
+		Size: 20
+
+-> 	DialogBox
+		RadioButton con capo gruppo a "Tutti":
+		arte, letteratura, cinema, sport, geografia,
+		scienze, informatica, tutti
+
+
+
+ESCI
+
+GAME_OVER
+
+GIOCO (1000x750)
+->	menubar
+		Nuova Partita, 
+
+MODO (350x250)
+->	LabelTitolo1
+		Font: DejaVu Serif Bold Semi-Condensed
+		Size: 20
+
+->	Gioc1, Gioc2 con LabelGioc1, LabelGioc2
+		Font: URW Bookman L Bold
+		Size: 20
+
+
+
+
+NOME (250x150)
+->	LabelTitolo3
+		Font: DejaVu Serif Bold Semi-Condensed
+		Size: 20
+
+->	TextEntryNome
+		Pixel sopra le linee: 12
+
+
+
+PAROLA (250x?)
+->	image3, LabelNomeGioc2
+		Etichetta da formattare correttamente ed inserire tramite
+		modalità testuale nel file sorgente
+
+->	LabelAzione1
+		Font: URW Bookman L Bold
+		Size: 20
+
+->	TextEntry1
+		
+
+PLAYERS
+
+
+
+WINNER
